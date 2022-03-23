@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a62c97-b39b-466c-9e59-0420cc8f3a25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/QueueJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutorial/algo/BinarySearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MergeSortAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,13 +86,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.QueueJava">
+  <component name="RunManager" selected="Application.MergeSortAlgo">
     <configuration name="ArraylistClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ArraylistClass" />
       <module name="test-java-projects" />
@@ -120,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D2Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.D2Array" />
+    <configuration name="MergeSortAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MergeSortAlgo" />
       <module name="test-java-projects" />
       <extension name="coverage">
         <pattern>
@@ -160,19 +163,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.D2Array" />
       <item itemvalue="Application.ArraylistClass" />
       <item itemvalue="Application.StackInJava" />
       <item itemvalue="Application.BinarySearchAlgo" />
       <item itemvalue="Application.QueueJava" />
+      <item itemvalue="Application.MergeSortAlgo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSortAlgo" />
         <item itemvalue="Application.QueueJava" />
         <item itemvalue="Application.BinarySearchAlgo" />
         <item itemvalue="Application.StackInJava" />
         <item itemvalue="Application.ArraylistClass" />
-        <item itemvalue="Application.D2Array" />
       </list>
     </recent_temporary>
   </component>
@@ -184,8 +187,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647675936787</updated>
+      <workItem from="1648045545122" duration="736000" />
+      <workItem from="1648046307644" duration="3061000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
