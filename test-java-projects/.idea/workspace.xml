@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a62c97-b39b-466c-9e59-0420cc8f3a25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/MergeSortAlgo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture-note/Week-7_Lecture_Stacks_Queues_Heaps.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture-note/week-7-chapter_graphs - Part1-ForStudents.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture-note/week-7-heaps_lecture_note.ppt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/company/StackInJava.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -91,6 +95,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -188,7 +193,9 @@
       <option name="presentableId" value="Default" />
       <updated>1647675936787</updated>
       <workItem from="1648045545122" duration="736000" />
-      <workItem from="1648046307644" duration="3061000" />
+      <workItem from="1648046307644" duration="3147000" />
+      <workItem from="1648095007170" duration="30000" />
+      <workItem from="1648229872316" duration="949000" />
     </task>
     <servers />
   </component>
