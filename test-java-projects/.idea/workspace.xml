@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a62c97-b39b-466c-9e59-0420cc8f3a25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../lecture-note/Week-7_Lecture_Stacks_Queues_Heaps.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lecture-note/week-7-chapter_graphs - Part1-ForStudents.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lecture-note/week-7-heaps_lecture_note.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tests/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tests/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tests/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tests/src/project/algo/new.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../readme.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,13 +112,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.MergeSortAlgo">
-    <configuration name="ArraylistClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ArraylistClass" />
+  <component name="RunManager" selected="Application.WordCount">
+    <configuration name="BinarySearchAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorial.algo.BinarySearchAlgo" />
       <module name="test-java-projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="tutorial.algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutorial.algo.BinarySearchAlgo" />
+    <configuration name="FileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.FileReader" />
       <module name="test-java-projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutorial.algo.*" />
+          <option name="PATTERN" value="com.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,8 +165,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.StackInJava" />
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.WordCount" />
       <module name="test-java-projects" />
       <extension name="coverage">
         <pattern>
@@ -168,19 +179,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArraylistClass" />
-      <item itemvalue="Application.StackInJava" />
       <item itemvalue="Application.BinarySearchAlgo" />
       <item itemvalue="Application.QueueJava" />
       <item itemvalue="Application.MergeSortAlgo" />
+      <item itemvalue="Application.FileReader" />
+      <item itemvalue="Application.WordCount" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.FileReader" />
         <item itemvalue="Application.MergeSortAlgo" />
         <item itemvalue="Application.QueueJava" />
         <item itemvalue="Application.BinarySearchAlgo" />
-        <item itemvalue="Application.StackInJava" />
-        <item itemvalue="Application.ArraylistClass" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +206,10 @@
       <workItem from="1648045545122" duration="736000" />
       <workItem from="1648046307644" duration="3147000" />
       <workItem from="1648095007170" duration="30000" />
-      <workItem from="1648229872316" duration="949000" />
+      <workItem from="1648229872316" duration="1059000" />
+      <workItem from="1648273760384" duration="1832000" />
+      <workItem from="1648448815993" duration="825000" />
+      <workItem from="1648466546686" duration="6810000" />
     </task>
     <servers />
   </component>
