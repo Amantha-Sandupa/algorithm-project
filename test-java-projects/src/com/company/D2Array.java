@@ -2,6 +2,7 @@ package com.company;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class D2Array {
 
@@ -15,6 +16,25 @@ public class D2Array {
         my2DArray[1][2] = 3;
 
         System.out.println(Arrays.deepToString(my2DArray));
+
+
+        String[][] newArray = new String [3][4];
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the letters");
+
+
+
+
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 4; j++) {
+                String input = sc.nextLine();
+                newArray[i][j] = input;
+            }
+        }
+        System.out.println(Arrays.deepToString(newArray));
     }
+
+
 
 }

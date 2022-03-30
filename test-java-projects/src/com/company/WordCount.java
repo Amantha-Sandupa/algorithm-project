@@ -2,12 +2,15 @@ package com.company;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.sql.Array;
 import java.util.Scanner;
 
 public class WordCount {
 
-    public static void wordCount() {
-        int numLines = 0, numWords = 0, numChar = 0;
+
+    public static void wordCount(int numLines, int numChar, int numWords) {
+
+
 
         Scanner myFile = null;
         try {
@@ -52,6 +55,11 @@ public class WordCount {
 
 
     public static void main(String[] args) {
-        wordCount();
+
+//        variables
+        int numLines = 0, numWords = 0, numChar = 0;
+
+//        calling the methods
+        wordCount(numLines,numChar,numWords);
     }
 }
