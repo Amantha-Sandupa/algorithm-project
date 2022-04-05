@@ -76,11 +76,11 @@ public class ArrayStack
 
     }
 
-    public int top(){
-        if(empty())
-            throw new EmptyStackException();
-        return items[size-1];
-    }
+//    public int top(){
+//        if(empty())
+//            throw new EmptyStackException();
+//        return items[size-1];
+//    }
     
     public int size()
     {
