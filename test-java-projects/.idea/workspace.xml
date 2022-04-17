@@ -2,10 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a62c97-b39b-466c-9e59-0420cc8f3a25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/ReadTxtTo2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/Algo Coursework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/out/production/Algo Coursework/com/company/GraphClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/out/production/Algo Coursework/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/out/production/Algo Coursework/com/company/PointCoordinate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/out/production/Algo Coursework/com/company/PuzzleClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/out/production/Algo Coursework/com/company/StopWatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/out/production/Algo Coursework/com/company/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/resource/maze10_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/resource/maze25_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/resource/maze30_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/src/com/company/GraphClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/src/com/company/PointCoordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/src/com/company/PuzzleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/src/com/company/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/20201259_w1839495_Isuru.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/AlgorithmCoursework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze10_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze10_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze10_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze10_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze10_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze15_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze15_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze15_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze15_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze15_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze20_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze20_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze20_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze20_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze20_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze25_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze25_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze25_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze25_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze25_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze30_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze30_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze30_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze30_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/maze30_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/out/production/AlgorithmCoursework/com/company/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/out/production/AlgorithmCoursework/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/puzzle_1280.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/puzzle_160.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/puzzle_20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/puzzle_2560.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/puzzle_320.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/puzzle_40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/puzzle_640.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/puzzle_80.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/src/com/company/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/src/com/company/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/w1839495_20201259_Isuru.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/algo/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/algo/ArrayStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/algo/ListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/algo/ListQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test-java-projects/com/company/ReadTxtTo2DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test-java-projects/com/company/ReadTxtTo2DArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ArraylistClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ArraylistClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/D2Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/D2Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/FileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MergeSortAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MergeSortAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/QueueJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/QueueJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ReadTxtTo2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ReadTxtTo2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/StackInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/StackInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/WordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/binarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/binarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,20 +183,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunManager" selected="Application.ReadTxtTo2DArray">
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/pickme1500/Desktop/algorithm-project/friends/w1839495_20201259_Isuru&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.WordCount">
     <configuration name="ArrayStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.ArrayStack" />
       <module name="test-java-projects" />
@@ -132,6 +214,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tutorial.algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MergeSortAlgo" />
+      <module name="test-java-projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,33 +260,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="binarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.binarySearch" />
-      <module name="test-java-projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.MergeSortAlgo" />
       <item itemvalue="Application.WordCount" />
-      <item itemvalue="Application.binarySearch" />
       <item itemvalue="Application.BinarySearchTree" />
       <item itemvalue="Application.ArrayStack" />
       <item itemvalue="Application.ReadTxtTo2DArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.MergeSortAlgo" />
         <item itemvalue="Application.ReadTxtTo2DArray" />
         <item itemvalue="Application.ArrayStack" />
         <item itemvalue="Application.BinarySearchTree" />
-        <item itemvalue="Application.binarySearch" />
-        <item itemvalue="Application.WordCount" />
       </list>
     </recent_temporary>
   </component>

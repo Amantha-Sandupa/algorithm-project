@@ -34,7 +34,7 @@ public class ReadTxtTo2DArray {
     }
 
     private static File chooseTextFile() {
-        FileDialog dialog = new FileDialog((Frame) null, "Select File");
+        FileDialog dialog = new FileDialog((Frame) null, "Select File to open");
         dialog.setMode(FileDialog.LOAD);
         dialog.setVisible(true);
         File[] file = dialog.getFiles();
