@@ -2,40 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1277e06-1600-4196-8ac9-8e5e300b90b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze10_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze10_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze10_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze10_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze10_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze15_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze15_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze15_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze15_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze15_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze20_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze20_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze20_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze20_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze20_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze25_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze25_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze25_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze25_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze25_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze30_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze30_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze30_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze30_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze30_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-java-projects/src/com/company/testPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coursework/cw/algorithm/BenchMark.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coursework/cw/algorithm/BenchMark.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coursework/cw/algorithm/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coursework/cw/algorithm/Graph.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/coursework/cw/algorithm/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coursework/cw/algorithm/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cw/algorithm/BenchMark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/algorithm/BenchMark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cw/algorithm/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/algorithm/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cw/algorithm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/algorithm/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friends/Algo Coursework (1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-java-projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
