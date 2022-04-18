@@ -8,6 +8,7 @@ package com.company;
 import java.awt.*;
 import java.io.File;
 import java.io.IOException;
+import static com.company.BenchMark.*;
 
 public class Main {
 
@@ -18,6 +19,8 @@ public class Main {
 //        opening the file
         Graph puzzleMaze = new Graph(chooseTextFile());
 
+        long start = System.currentTimeMillis();
+
         puzzleMaze.wordCount();
         pathFinder = puzzleMaze.twoDarray();
 
@@ -27,17 +30,12 @@ public class Main {
 
         System.out.println();
         System.out.println("END OF THE PROGRAM");
+
+        double end = System.currentTimeMillis();
+        double totalTime = (end - start)/1000;
+        System.out.println("Total time to execute - "+totalTime);
         System.exit(0);
 
-    }
 
-
-//    choosing the file
-    private static File chooseTextFile() {
-        FileDialog dialog = new FileDialog((Frame) null, "Select a File to open");
-        dialog.setMode(FileDialog.LOAD);
-        dialog.setVisible(true);
-        File[] file = dialog.getFiles();
-        return file[0];
     }
 }

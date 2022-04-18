@@ -40,6 +40,11 @@ public class Graph {
             //counting the rows
             rowsCount++;
         }
+
+
+
+
+
     }
 
 
