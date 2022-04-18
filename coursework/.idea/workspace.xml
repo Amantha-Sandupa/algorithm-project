@@ -2,49 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1277e06-1600-4196-8ac9-8e5e300b90b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../algorithm-cw/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm-cw/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm-cw/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm-cw/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm-cw/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm-cw/algorithm-cw.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm-cw/src/cw/algorithm/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm-cw/src/cw/algorithm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/algorithm/BenchMark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/algorithm/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/Algo Coursework/src/com/company/Testpf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/src/com/company/BenchMark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/out/production/w1839495_20201259_Isuru/com/company/BenchMark.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/out/production/w1839495_20201259_Isuru/com/company/Graph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test-java-projects/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test-java-projects/src/com/company/BenchMark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/algorithm/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/gitPathfindings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/src/com/company/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/src/com/company/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/AlgorithmCoursework/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/out/production/w1839495_20201259_Isuru/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/out/production/w1839495_20201259_Isuru/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/out/production/w1839495_20201259_Isuru/com/company/Puzzle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/out/production/w1839495_20201259_Isuru/com/company/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/MinHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/MinHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/ArraylistClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/ArraylistClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/D2Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/D2Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/FileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/FileReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/MergeSortAlgo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/MergeSortAlgo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/QueueJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/QueueJava.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/ReadTxtTo2DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/ReadTxtTo2DArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/StackInJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/StackInJava.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/WordCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/WordCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/binarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/com/company/binarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/tutorial/algo/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/tutorial/algo/ArrayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/tutorial/algo/BinarySearchAlgo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/tutorial/algo/BinarySearchAlgo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/tutorial/algo/BinarySearchTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/tutorial/algo/BinarySearchTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/tutorial/algo/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test-java-projects/out/production/test-java-projects/tutorial/algo/BinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze10_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze10_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze10_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze10_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze10_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze15_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze15_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze15_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze15_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze15_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze20_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze20_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze20_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze20_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze20_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze25_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze25_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze25_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze25_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze25_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze30_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze30_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze30_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze30_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coursework/txtFiles/maze30_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coursework/cw/algorithm/BenchMark.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coursework/cw/algorithm/BenchMark.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coursework/cw/algorithm/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coursework/cw/algorithm/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coursework/cw/algorithm/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coursework/cw/algorithm/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cw/algorithm/BenchMark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/algorithm/BenchMark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cw/algorithm/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/algorithm/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cw/algorithm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/algorithm/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friends/Algo Coursework (1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../friends/Algo Coursework (1)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../friends/w1839495_20201259_Isuru/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

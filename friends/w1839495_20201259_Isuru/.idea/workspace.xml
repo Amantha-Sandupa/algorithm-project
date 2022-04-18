@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce9da506-050f-486e-8859-26a4311089cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../algorithm-cw/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../algorithm-cw/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../algorithm-cw/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../algorithm-cw/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../algorithm-cw/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../algorithm-cw/algorithm-cw.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../algorithm-cw/src/cw/algorithm/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../algorithm-cw/src/cw/algorithm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../coursework/src/cw/algorithm/BenchMark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../coursework/src/cw/algorithm/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algo Coursework (1)/Algo Coursework/src/com/company/Testpf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgorithmCoursework/src/com/company/BenchMark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/w1839495_20201259_Isuru/com/company/BenchMark.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/w1839495_20201259_Isuru/com/company/Graph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../test-java-projects/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../test-java-projects/src/com/company/BenchMark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../coursework/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../coursework/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../coursework/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../coursework/src/cw/algorithm/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../coursework/src/com/company/gitPathfindings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmCoursework/src/com/company/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmCoursework/src/com/company/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmCoursework/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmCoursework/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/w1839495_20201259_Isuru/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/w1839495_20201259_Isuru/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/w1839495_20201259_Isuru/com/company/Puzzle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/w1839495_20201259_Isuru/com/company/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/MinHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/MinHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/ArraylistClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/ArraylistClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/D2Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/D2Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/FileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/FileReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/MergeSortAlgo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/MergeSortAlgo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/QueueJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/QueueJava.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/ReadTxtTo2DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/ReadTxtTo2DArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/StackInJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/StackInJava.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/WordCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/WordCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/binarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/com/company/binarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/tutorial/algo/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/tutorial/algo/ArrayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/tutorial/algo/BinarySearchAlgo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/tutorial/algo/BinarySearchAlgo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/tutorial/algo/BinarySearchTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/tutorial/algo/BinarySearchTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/tutorial/algo/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-java-projects/out/production/test-java-projects/tutorial/algo/BinarySearchTree.class" afterDir="false" />
-    </list>
+    <list default="true" id="ce9da506-050f-486e-8859-26a4311089cc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,14 +26,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/pickme1500/Desktop/algorithm-project/friends/w1839495_20201259_Isuru"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/pickme1500/Desktop/algorithm-project/friends/w1839495_20201259_Isuru&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="BenchMark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.BenchMark" />
