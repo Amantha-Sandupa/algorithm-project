@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e259f5a-469e-4da5-b930-767d227bb890" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/Algo Coursework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/out/production/Algo Coursework/com/company/GraphClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/out/production/Algo Coursework/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/out/production/Algo Coursework/com/company/PointCoordinate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/out/production/Algo Coursework/com/company/PuzzleClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/out/production/Algo Coursework/com/company/StopWatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/out/production/Algo Coursework/com/company/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/resource/maze10_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/resource/maze25_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/resource/maze30_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/src/com/company/GraphClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/src/com/company/PointCoordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/src/com/company/PuzzleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algo Coursework (1)/Algo Coursework/src/com/company/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../w1839495_20201259_Isuru.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201259_w1839495_Isuru.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmCoursework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze10_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze10_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze10_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze10_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze10_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze15_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze15_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze15_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze15_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze15_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze20_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze20_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze20_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze20_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze20_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze25_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze25_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze25_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze25_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze25_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze30_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze30_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze30_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze30_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze30_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCoursework/com/company/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCoursework/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle_1280.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle_160.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle_20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle_2560.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle_320.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle_40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle_640.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle_80.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../w1839495_20201259_Isuru.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-java-projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-java-projects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-java-projects/out/production/test-java-projects/com/company/ReadTxtTo2DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-java-projects/out/production/test-java-projects/com/company/ReadTxtTo2DArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/ArraylistClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/ArraylistClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/D2Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/D2Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/FileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/MergeSortAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/MergeSortAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/QueueJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/QueueJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/ReadTxtTo2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/ReadTxtTo2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/StackInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/StackInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/WordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/binarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-java-projects/src/com/company/binarySearch.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27hYc9uCi9mEWmNJnNZSMfKqUhh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/pickme1500/Desktop/algorithm-project/friends/Algo Coursework (1)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="AlgorithmCoursework" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e259f5a-469e-4da5-b930-767d227bb890" name="Default Changelist" comment="" />
+      <created>1649773868175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649773868175</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
